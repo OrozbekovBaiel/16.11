@@ -1,0 +1,32 @@
+nav{
+  background-color: tomato;
+  min-height: 60px;
+}
+header{
+  border-color: darkkhaki;
+  min-height: 150px;
+}
+main{
+  background-color: burlywood;
+  min-height:350px;
+}
+aside{
+  background-color: darkolivegreen;
+  min-height: 200px;
+}
+footer{
+  background-color:cornflowerblue ;
+  min-height: 80px;
+}
+.placeholder{
+  color: white;
+  font-size: 1.3rem;
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-transform: uppercase;
+
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
